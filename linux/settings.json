@@ -1,0 +1,24 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "material-icon-theme",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.tabSize": 2,
+    "editor.fontSize": 16,
+    "workbench.editor.enablePreview": false,
+    "terminal.integrated.fontFamily": "Menlo for Powerline",
+    "git.autofetch": true,
+    "editor.fontFamily": "'Menlo','Monaco','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "yaml.customTags": [
+        "!Ref"
+    ],
+    "aws.profile": "profile:personal",
+    "editor.minimap.enabled": false,
+    "explorer.compactFolders": false
+}
