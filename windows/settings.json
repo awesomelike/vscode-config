@@ -1,0 +1,29 @@
+{
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "material-icon-theme",
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+  },
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.fontFamily": "Hack",
+  "git.autofetch": true,
+  "editor.fontFamily": "Consolas, Hack, monospace, 'Droid Sans Fallback'",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "explorer.compactFolders": false,
+  "workbench.editorAssociations": [
+      {
+          "viewType": "jupyter.notebook.ipynb",
+          "filenamePattern": "*.ipynb"
+      }
+  ],
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.autoSave": "off",
+  "workbench.colorTheme": "Default Dark+"
+}
